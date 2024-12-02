@@ -1,0 +1,35 @@
+
+
+h2{
+    color:white;
+}
+
+
+    
+
+
+body{
+    font-family: Arial,sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    background-color:rgb(30, 26, 4);
+}
+
+container{
+    max-width: 1200px;
+    margin:0 auto;
+    padding:20px;
+}
+
+navbar-brand{
+    color:aqua
+    
+}
+/*Main content styles*/
+main{
+    background-color:rgb(55, 47, 2);
+    padding: 20px;
+    border: radius 10px;
+    box-shadow:0 0 50px rgba(0, 0, 0, 0.1);
+
+}
